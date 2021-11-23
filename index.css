@@ -5,6 +5,11 @@
   box-sizing: border-box;
   font-family: 'Source Sans Pro', sans-serif;
 }
+:root{
+  --lightblack: rgb(7, 7, 7);
+  --white: #e2d8d8;
+  --darkwhite: #cecaca;
+}
 body{
   display: flex;
   align-items: center;
